@@ -1,5 +1,6 @@
 import './App.css';
 import ExpenseItem from './components/expense_item/Expenseitem';
+import Expenses from './components/expense/Expenses';
 
 function App() {
   const DUMMY_DATA = [
